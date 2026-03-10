@@ -203,26 +203,26 @@ SMTP_PORT=587
 
 # 🔄 Appointment Workflow
 
-Customer books appointment
+                                    Customer books appointment
 
-↓
+                                            ↓
 
-Professional reviews request
+                                    Professional reviews request
 
-↓
+                                            ↓   
 
-Professional can:
-- Accept
-- Reject
-- Reschedule
+                                    Professional can:
+                                      - Accept
+                                      - Reject
+                                      - Reschedule
 
-↓
+                                            ↓
 
-Customer can request reschedule
+                                Customer can request reschedule
 
-↓
+                                            ↓
 
-Professional approves or rejects request
+                            Professional approves or rejects request
 
 ---
 
